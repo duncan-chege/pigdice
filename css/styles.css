@@ -1,0 +1,108 @@
+body{
+font-family: 'Lato', sans-serif;
+}
+.container{
+  margin: 0;
+  width: 100vw;
+}
+#leftsection{
+  background: #0F0D13;
+    /* vh (viewport height) to get the height of the broweser window */
+  height:100vh;
+}
+#rightsection{
+  background: #EDCA00;
+  height:100vh;
+}
+.gamename{
+  margin-left: 30%;
+  font-size: 30px;
+  color: white;
+}
+.gameslogan{
+  margin-left: 30%;
+  font-size: 30px;
+}
+#img{
+  position: absolute;
+  opacity: 0.4;
+  height: 60px;
+  width: 60px;
+}
+.mybtn{
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  background-image: linear-gradient(#EDCA00,  #0F0D13);
+  border: none;
+  width: 130px;
+  padding: 7px;
+  margin: 10px 0 0 230px;
+}
+.you{
+  margin-left: 40%;
+  color: white;
+}
+.mybtn2{
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  background-color: #333;
+  border: none;
+  width: 130px;
+  padding: 7px;
+  margin: 10px 0 0 230px;
+}
+.you2{
+  margin-left: 38%;
+  color: white;
+}
+.playerscores{
+  font-size: 80px;
+  color: white;
+  margin: 10px 0 0 280px;
+}
+.compscores{
+  font-size: 80px;
+  color: white;
+  margin: 10px 0 0 280px;
+}
+.roll{
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  background-image: linear-gradient(#EDCA00,  #0F0D13);
+  border: none;
+  width: 130px;
+  padding: 7px;
+  margin: 30px 0 0 480px;
+}
+.hold{
+  border-radius: 8px;
+  color: white;
+  font-size: 16px;
+  background-color: #333;
+  border: none;
+  width: 60px;
+  padding: 7px;
+  margin: 90px 0 0 10px;
+}
+.youfinal{
+  margin-top: 60px;
+  margin-left: 40%;
+  color: white;
+}
+.you2final{
+  margin-left: 38%;
+  color: white;
+}
+.playerfinal{
+  font-size: 80px;
+  color: white;
+  margin: 10px 0 0 280px;
+}
+.compfinal{
+  font-size: 80px;
+  color: white;
+  margin: 10px 0 0 280px;
+}
