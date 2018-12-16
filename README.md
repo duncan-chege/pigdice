@@ -18,7 +18,7 @@ Written by *Duncan Chege*. His first attempt at using jQuery in a webpage.
 
 ## Behaviour Driven Development
 
-Below shows an image identifying different of function executions
+Below shows an image identifying different function executions
 ![Image](images/readme.jpg)
 
 ### Contact Information
