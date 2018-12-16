@@ -21,6 +21,9 @@ Written by *Duncan Chege*. His first attempt at using jQuery in a webpage.
 Below shows an image identifying different function executions
 ![Image](images/readme.jpg)
 
+## Link to live site.
+Click [here](https://dunyung1.github.io/pigdice/) to view the quizboard.
+
 ### Contact Information
 
 To reach me, email me at: > dshege4@gmail.com
