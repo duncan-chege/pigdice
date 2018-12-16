@@ -22,7 +22,7 @@ Below shows an image identifying different function executions
 ![Image](images/readme.jpg)
 
 ## Link to live site.
-Click [here](https://dunyung1.github.io/pigdice/) to view the quizboard.
+Click [here](https://dunyung1.github.io/pigdice/) to view the webpage.
 
 ### Contact Information
 
