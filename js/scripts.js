@@ -5,18 +5,17 @@ function player1() {}
 
 function comp() {}
 
-
 //user interface logic
 $(document).ready(function() {
   $(".roll").click(function player1() {
-    var dice = Math.floor(Math.random() * 6) + 1;
-    parseInt($(".playerscores").text(dice));
+    var currentDice = Math.floor(Math.random() * 6) + 1;
+    parseInt($(".playerscores").text(currentDice));
 
-    if (dice != 1) {
+    if (currentDice != 1) {
       //parseInt($(".playerfinal").text(0));
       // return 0;
 
-      total += dice;
+      total += currentDice;
       parseInt($(".playerfinal").text(total));
     } else {
       total = 0;
